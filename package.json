@@ -1,0 +1,19 @@
+{
+    "name": "get_legendary_mechanic",
+    "version": "1.0.0",
+    "description": "I want to download pages of my fav webnovels",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node index.js"
+    },
+    "keywords": [
+        "get",
+        "webcrawler"
+    ],
+    "author": "Judah O. Matende",
+    "license": "MIT",
+    "dependencies": {
+        "utf8": "^3.0.0"
+    }
+}
